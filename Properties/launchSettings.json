@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DerekBanasCSharpTut": {
+      "commandName": "Project",
+      "commandLineArgs": "1 2 3 4"
+    }
+  }
+}

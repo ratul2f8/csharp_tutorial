@@ -1,0 +1,13 @@
+C:\Users\Ratul\source\repos\DerekBanasCSharpTut\DerekBanasCSharpTut\bin\Debug\netcoreapp3.1\DerekBanasCSharpTut.exe
+C:\Users\Ratul\source\repos\DerekBanasCSharpTut\DerekBanasCSharpTut\bin\Debug\netcoreapp3.1\DerekBanasCSharpTut.deps.json
+C:\Users\Ratul\source\repos\DerekBanasCSharpTut\DerekBanasCSharpTut\bin\Debug\netcoreapp3.1\DerekBanasCSharpTut.runtimeconfig.json
+C:\Users\Ratul\source\repos\DerekBanasCSharpTut\DerekBanasCSharpTut\bin\Debug\netcoreapp3.1\DerekBanasCSharpTut.runtimeconfig.dev.json
+C:\Users\Ratul\source\repos\DerekBanasCSharpTut\DerekBanasCSharpTut\bin\Debug\netcoreapp3.1\DerekBanasCSharpTut.dll
+C:\Users\Ratul\source\repos\DerekBanasCSharpTut\DerekBanasCSharpTut\bin\Debug\netcoreapp3.1\DerekBanasCSharpTut.pdb
+C:\Users\Ratul\source\repos\DerekBanasCSharpTut\DerekBanasCSharpTut\obj\Debug\netcoreapp3.1\DerekBanasCSharpTut.csprojAssemblyReference.cache
+C:\Users\Ratul\source\repos\DerekBanasCSharpTut\DerekBanasCSharpTut\obj\Debug\netcoreapp3.1\DerekBanasCSharpTut.AssemblyInfoInputs.cache
+C:\Users\Ratul\source\repos\DerekBanasCSharpTut\DerekBanasCSharpTut\obj\Debug\netcoreapp3.1\DerekBanasCSharpTut.AssemblyInfo.cs
+C:\Users\Ratul\source\repos\DerekBanasCSharpTut\DerekBanasCSharpTut\obj\Debug\netcoreapp3.1\DerekBanasCSharpTut.dll
+C:\Users\Ratul\source\repos\DerekBanasCSharpTut\DerekBanasCSharpTut\obj\Debug\netcoreapp3.1\DerekBanasCSharpTut.pdb
+C:\Users\Ratul\source\repos\DerekBanasCSharpTut\DerekBanasCSharpTut\obj\Debug\netcoreapp3.1\DerekBanasCSharpTut.genruntimeconfig.cache
+C:\Users\Ratul\source\repos\DerekBanasCSharpTut\DerekBanasCSharpTut\obj\Debug\netcoreapp3.1\DerekBanasCSharpTut.csproj.CoreCompileInputs.cache

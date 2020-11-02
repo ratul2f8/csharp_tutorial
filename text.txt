@@ -1,0 +1,2 @@
+This is from stream writer.
+This is another one from stream writer.
